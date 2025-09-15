@@ -24,3 +24,8 @@
 - pandas → Excel 資料讀取  
 - PyPDF2 → PDF 文件處理  
 
+---
+
+範例圖
+
+![image](https://github.com/lYuenl/GeneratePDF/blob/main/example.png)
